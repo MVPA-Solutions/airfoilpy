@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="airfoilpy",
-    version="1.0.0",
+    version="1.0.1",
     description="A basic package for generating and working with airfoil shapes.",
     author="Josh",
     author_email="your.email@example.com",
